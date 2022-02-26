@@ -2,6 +2,10 @@
 
 🏠 A simple chat room by vue3 & webrtc.
 
+## View
+
+![预览](./public/view.gif)
+
 ## How To Use
 
 ### dev
